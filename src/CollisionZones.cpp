@@ -37,11 +37,11 @@ void loadCollisionZones(std::vector<Rectangle>& rects, std::vector<Triangle>& tr
 
         {{350, 1030}, {350, 1030 + 60}, {350 + 60, 1030}},
         {{350+240, 1030}, {350+240, 1030 + 60}, {350+240 - 60, 1030}}
+        
         /*
         Vector2 A = {620, 295};            // Ángulo recto
         Vector2 B = {620, 295 + 75};       // Abajo
         Vector2 C = {620 - 70, 295};       // Izquierda
-
         */
     };
 }
